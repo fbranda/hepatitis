@@ -1,0 +1,191 @@
+"week","WHO_region","cases"
+"2021-39","Europe",1
+"2021-40","Europe",0
+"2021-41","Europe",0
+"2021-42","Europe",1
+"2021-43","Europe",1
+"2021-44","Europe",1
+"2021-45","Europe",1
+"2021-46","Europe",0
+"2021-47","Europe",0
+"2021-48","Europe",4
+"2021-49","Europe",0
+"2021-50","Europe",2
+"2021-51","Europe",1
+"2021-52","Europe",4
+"2022-01","Europe",8
+"2022-02","Europe",9
+"2022-03","Europe",9
+"2022-04","Europe",12
+"2022-05","Europe",10
+"2022-06","Europe",8
+"2022-07","Europe",12
+"2022-08","Europe",8
+"2022-09","Europe",19
+"2022-10","Europe",17
+"2022-11","Europe",19
+"2022-12","Europe",38
+"2022-13","Europe",33
+"2022-14","Europe",27
+"2022-15","Europe",35
+"2022-16","Europe",38
+"2022-17","Europe",43
+"2022-18","Europe",32
+"2022-19","Europe",22
+"2022-20","Europe",22
+"2022-21","Europe",16
+"2022-22","Europe",4
+"2022-23","Europe",5
+"2022-24","Europe",5
+"2021-39","Americas",0
+"2021-40","Americas",0
+"2021-41","Americas",0
+"2021-42","Americas",0
+"2021-43","Americas",0
+"2021-44","Americas",0
+"2021-45","Americas",0
+"2021-46","Americas",0
+"2021-47","Americas",0
+"2021-48","Americas",0
+"2021-49","Americas",0
+"2021-50","Americas",0
+"2021-51","Americas",0
+"2021-52","Americas",0
+"2022-01","Americas",0
+"2022-02","Americas",0
+"2022-03","Americas",0
+"2022-04","Americas",0
+"2022-05","Americas",0
+"2022-06","Americas",0
+"2022-07","Americas",0
+"2022-08","Americas",0
+"2022-09","Americas",0
+"2022-10","Americas",0
+"2022-11","Americas",0
+"2022-12","Americas",0
+"2022-13","Americas",0
+"2022-14","Americas",1
+"2022-15","Americas",0
+"2022-16","Americas",1
+"2022-17","Americas",0
+"2022-18","Americas",0
+"2022-19","Americas",0
+"2022-20","Americas",7
+"2022-21","Americas",0
+"2022-22","Americas",0
+"2022-23","Americas",0
+"2022-24","Americas",0
+"2021-39","South-East Asia ",0
+"2021-40","South-East Asia ",0
+"2021-41","South-East Asia ",0
+"2021-42","South-East Asia ",0
+"2021-43","South-East Asia ",0
+"2021-44","South-East Asia ",0
+"2021-45","South-East Asia ",0
+"2021-46","South-East Asia ",0
+"2021-47","South-East Asia ",0
+"2021-48","South-East Asia ",0
+"2021-49","South-East Asia ",0
+"2021-50","South-East Asia ",0
+"2021-51","South-East Asia ",0
+"2021-52","South-East Asia ",0
+"2022-01","South-East Asia ",0
+"2022-02","South-East Asia ",0
+"2022-03","South-East Asia ",0
+"2022-04","South-East Asia ",0
+"2022-05","South-East Asia ",0
+"2022-06","South-East Asia ",0
+"2022-07","South-East Asia ",0
+"2022-08","South-East Asia ",0
+"2022-09","South-East Asia ",0
+"2022-10","South-East Asia ",0
+"2022-11","South-East Asia ",0
+"2022-12","South-East Asia ",0
+"2022-13","South-East Asia ",0
+"2022-14","South-East Asia ",1
+"2022-15","South-East Asia ",0
+"2022-16","South-East Asia ",0
+"2022-17","South-East Asia ",1
+"2022-18","South-East Asia ",0
+"2022-19","South-East Asia ",1
+"2022-20","South-East Asia ",0
+"2022-21","South-East Asia ",0
+"2022-22","South-East Asia ",0
+"2022-23","South-East Asia ",0
+"2022-24","South-East Asia ",0
+"2021-39","Western Pacific",0
+"2021-40","Western Pacific",0
+"2021-41","Western Pacific",0
+"2021-42","Western Pacific",0
+"2021-43","Western Pacific",0
+"2021-44","Western Pacific",0
+"2021-45","Western Pacific",0
+"2021-46","Western Pacific",0
+"2021-47","Western Pacific",0
+"2021-48","Western Pacific",0
+"2021-49","Western Pacific",0
+"2021-50","Western Pacific",0
+"2021-51","Western Pacific",0
+"2021-52","Western Pacific",0
+"2022-01","Western Pacific",0
+"2022-02","Western Pacific",0
+"2022-03","Western Pacific",0
+"2022-04","Western Pacific",0
+"2022-05","Western Pacific",0
+"2022-06","Western Pacific",0
+"2022-07","Western Pacific",0
+"2022-08","Western Pacific",0
+"2022-09","Western Pacific",0
+"2022-10","Western Pacific",0
+"2022-11","Western Pacific",0
+"2022-12","Western Pacific",0
+"2022-13","Western Pacific",0
+"2022-14","Western Pacific",0
+"2022-15","Western Pacific",1
+"2022-16","Western Pacific",0
+"2022-17","Western Pacific",1
+"2022-18","Western Pacific",0
+"2022-19","Western Pacific",0
+"2022-20","Western Pacific",0
+"2022-21","Western Pacific",0
+"2022-22","Western Pacific",0
+"2022-23","Western Pacific",0
+"2022-24","Western Pacific",0
+"2021-39","Eastern Mediterranean",0
+"2021-40","Eastern Mediterranean",0
+"2021-41","Eastern Mediterranean",0
+"2021-42","Eastern Mediterranean",0
+"2021-43","Eastern Mediterranean",0
+"2021-44","Eastern Mediterranean",0
+"2021-45","Eastern Mediterranean",0
+"2021-46","Eastern Mediterranean",0
+"2021-47","Eastern Mediterranean",0
+"2021-48","Eastern Mediterranean",0
+"2021-49","Eastern Mediterranean",0
+"2021-50","Eastern Mediterranean",0
+"2021-51","Eastern Mediterranean",0
+"2021-52","Eastern Mediterranean",0
+"2022-01","Eastern Mediterranean",0
+"2022-02","Eastern Mediterranean",0
+"2022-03","Eastern Mediterranean",0
+"2022-04","Eastern Mediterranean",0
+"2022-05","Eastern Mediterranean",0
+"2022-06","Eastern Mediterranean",0
+"2022-07","Eastern Mediterranean",0
+"2022-08","Eastern Mediterranean",0
+"2022-09","Eastern Mediterranean",0
+"2022-10","Eastern Mediterranean",0
+"2022-11","Eastern Mediterranean",0
+"2022-12","Eastern Mediterranean",0
+"2022-13","Eastern Mediterranean",0
+"2022-14","Eastern Mediterranean",0
+"2022-15","Eastern Mediterranean",0
+"2022-16","Eastern Mediterranean",2
+"2022-17","Eastern Mediterranean",0
+"2022-18","Eastern Mediterranean",0
+"2022-19","Eastern Mediterranean",0
+"2022-20","Eastern Mediterranean",0
+"2022-21","Eastern Mediterranean",0
+"2022-22","Eastern Mediterranean",0
+"2022-23","Eastern Mediterranean",0
+"2022-24","Eastern Mediterranean",0
