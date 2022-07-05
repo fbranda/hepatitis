@@ -6,18 +6,18 @@ This repository contains data extracted from the [ECDC-WHO/Europe surveillance b
 
 ## Getting the data
 
-**Direct download (CSV)**: https://raw.githubusercontent.com/fbranda/hepatitis/main/timeseries-country-cases.csv
+**Direct download (CSV)**: https://raw.githubusercontent.com/fbranda/hepatitis/main/ECDC-WHO_Regional_Office_for_Europe/timeseries_cases.csv
 
 **Python** (requires `pandas`):
 ```python
 import pandas as pd
-df = pd.read_csv("https://raw.githubusercontent.com/fbranda/hepatitis/main/timeseries-country-cases.csv")
+df = pd.read_csv("https://raw.githubusercontent.com/fbranda/hepatitis/main/ECDC-WHO_Regional_Office_for_Europe/timeseries_cases.csv")
 ```
 
 **R** (requires `httr`):
 ```r
 library(httr)
-df <- read.csv(text=content(GET("https://raw.githubusercontent.com/fbranda/hepatitis/main/timeseries-country-cases.csv")))
+df <- read.csv(text=content(GET("https://raw.githubusercontent.com/fbranda/hepatitis/main/ECDC-WHO_Regional_Office_for_Europe/timeseries_cases.csv")))
 ```
 
 ## License and attribution
