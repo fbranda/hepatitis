@@ -1,7 +1,7 @@
-WHO_region;probable_cases;cases_requiring_liver_transplants;covid19_positive ;adenovirus_positive ;adenovirus_type41_positive;deaths
-Americas;435;24;18;9;1;13
-"Eastern Mediterranean	";2;0;;1;;1
-Europe;484;22;54;193;30;2
-Southeast-Asia;19;0;;;;6
-Western Pacific;70;0;6;6;0;0
-Cumulative;1010;46;78;209;31;22
+"WHO_region","probable_cases","cases_requiring_liver_transplants","covid19_positive","adenovirus_positive","adenovirus_type41_positive","deaths"
+"Americas",435,24,18,9,1,13
+"Eastern Mediterranean",2,0,0,1,0,1
+"Europe",484,22,54,193,30,2
+"Southeast-Asia",19,0,0,0,0,6
+"Western Pacific",70,0,6,6,0,0
+"Cumulative",1010,46,78,209,31,22
