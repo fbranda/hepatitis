@@ -33,11 +33,15 @@
 "2022-18","Austria",0,2
 "2022-19","Austria",0,2
 "2022-20","Austria",0,2
-"2022-21","Austria",1,3
-"2022-22","Austria",0,3
-"2022-23","Austria",0,3
-"2022-24","Austria",0,3
-"2022-25","Austria",0,3
+"2022-21","Austria",2,4
+"2022-22","Austria",0,4
+"2022-23","Austria",1,5
+"2022-24","Austria",0,5
+"2022-25","Austria",0,5
+"2022-26","Austria",0,5
+"2022-27","Austria",0,5
+"2022-28","Austria",0,5
+"2022-29","Austria",1,6
 "2021-39","Belgium",1,1
 "2021-40","Belgium",0,1
 "2021-41","Belgium",0,1
@@ -77,6 +81,10 @@
 "2022-23","Belgium",0,14
 "2022-24","Belgium",0,14
 "2022-25","Belgium",0,14
+"2022-26","Belgium",0,14
+"2022-27","Belgium",0,14
+"2022-28","Belgium",0,14
+"2022-29","Belgium",0,14
 "2021-39","Bulgaria",0,0
 "2021-40","Bulgaria",0,0
 "2021-41","Bulgaria",0,0
@@ -116,6 +124,10 @@
 "2022-23","Bulgaria",0,1
 "2022-24","Bulgaria",0,1
 "2022-25","Bulgaria",0,1
+"2022-26","Bulgaria",0,1
+"2022-27","Bulgaria",0,1
+"2022-28","Bulgaria",0,1
+"2022-29","Bulgaria",0,1
 "2021-39","Cyprus",0,0
 "2021-40","Cyprus",0,0
 "2021-41","Cyprus",0,0
@@ -155,6 +167,10 @@
 "2022-23","Cyprus",0,2
 "2022-24","Cyprus",0,2
 "2022-25","Cyprus",0,2
+"2022-26","Cyprus",0,2
+"2022-27","Cyprus",0,2
+"2022-28","Cyprus",0,2
+"2022-29","Cyprus",0,2
 "2021-39","Denmark",0,0
 "2021-40","Denmark",0,0
 "2021-41","Denmark",0,0
@@ -191,9 +207,13 @@
 "2022-20","Denmark",0,7
 "2022-21","Denmark",0,7
 "2022-22","Denmark",0,7
-"2022-23","Denmark",0,7
-"2022-24","Denmark",0,7
-"2022-25","Denmark",0,7
+"2022-23","Denmark",1,8
+"2022-24","Denmark",0,8
+"2022-25","Denmark",0,8
+"2022-26","Denmark",0,8
+"2022-27","Denmark",0,8
+"2022-28","Denmark",0,8
+"2022-29","Denmark",0,8
 "2021-39","France",0,0
 "2021-40","France",0,0
 "2021-41","France",0,0
@@ -231,8 +251,12 @@
 "2022-21","France",0,7
 "2022-22","France",0,7
 "2022-23","France",0,7
-"2022-24","France",0,7
-"2022-25","France",0,7
+"2022-24","France",1,8
+"2022-25","France",0,8
+"2022-26","France",0,8
+"2022-27","France",1,9
+"2022-28","France",0,9
+"2022-29","France",0,9
 "2021-39","Greece",0,0
 "2021-40","Greece",0,0
 "2021-41","Greece",0,0
@@ -272,6 +296,10 @@
 "2022-23","Greece",2,10
 "2022-24","Greece",0,10
 "2022-25","Greece",0,10
+"2022-26","Greece",1,11
+"2022-27","Greece",0,11
+"2022-28","Greece",0,11
+"2022-29","Greece",0,11
 "2021-39","Ireland",0,0
 "2021-40","Ireland",0,0
 "2021-41","Ireland",0,0
@@ -306,11 +334,15 @@
 "2022-18","Ireland",1,11
 "2022-19","Ireland",2,13
 "2022-20","Ireland",2,15
-"2022-21","Ireland",0,15
-"2022-22","Ireland",0,15
-"2022-23","Ireland",1,16
-"2022-24","Ireland",0,16
-"2022-25","Ireland",0,16
+"2022-21","Ireland",1,16
+"2022-22","Ireland",0,16
+"2022-23","Ireland",1,17
+"2022-24","Ireland",2,19
+"2022-25","Ireland",1,20
+"2022-26","Ireland",1,21
+"2022-27","Ireland",3,24
+"2022-28","Ireland",0,24
+"2022-29","Ireland",0,24
 "2021-39","Israel",0,0
 "2021-40","Israel",0,0
 "2021-41","Israel",0,0
@@ -350,6 +382,10 @@
 "2022-23","Israel",0,5
 "2022-24","Israel",0,5
 "2022-25","Israel",0,5
+"2022-26","Israel",0,5
+"2022-27","Israel",0,5
+"2022-28","Israel",0,5
+"2022-29","Israel",0,5
 "2021-39","Italy",0,0
 "2021-40","Italy",0,0
 "2021-41","Italy",0,0
@@ -384,11 +420,15 @@
 "2022-18","Italy",4,28
 "2022-19","Italy",2,30
 "2022-20","Italy",1,31
-"2022-21","Italy",1,32
-"2022-22","Italy",1,33
-"2022-23","Italy",1,34
-"2022-24","Italy",1,35
-"2022-25","Italy",0,35
+"2022-21","Italy",2,33
+"2022-22","Italy",1,34
+"2022-23","Italy",1,35
+"2022-24","Italy",1,36
+"2022-25","Italy",0,36
+"2022-26","Italy",0,36
+"2022-27","Italy",0,36
+"2022-28","Italy",0,36
+"2022-29","Italy",0,36
 "2021-39","Latvia",0,0
 "2021-40","Latvia",0,0
 "2021-41","Latvia",0,0
@@ -428,6 +468,10 @@
 "2022-23","Latvia",0,1
 "2022-24","Latvia",0,1
 "2022-25","Latvia",0,1
+"2022-26","Latvia",0,1
+"2022-27","Latvia",0,1
+"2022-28","Latvia",0,1
+"2022-29","Latvia",0,1
 "2021-39","Luxembourg",0,0
 "2021-40","Luxembourg",0,0
 "2021-41","Luxembourg",0,0
@@ -465,8 +509,12 @@
 "2022-21","Luxembourg",0,0
 "2022-22","Luxembourg",0,0
 "2022-23","Luxembourg",0,0
-"2022-24","Luxembourg",1,1
-"2022-25","Luxembourg",0,1
+"2022-24","Luxembourg",0,0
+"2022-25","Luxembourg",1,1
+"2022-26","Luxembourg",0,1
+"2022-27","Luxembourg",0,1
+"2022-28","Luxembourg",0,1
+"2022-29","Luxembourg",0,1
 "2021-39","Netherlands",0,0
 "2021-40","Netherlands",0,0
 "2021-41","Netherlands",0,0
@@ -502,10 +550,14 @@
 "2022-19","Netherlands",0,13
 "2022-20","Netherlands",0,13
 "2022-21","Netherlands",0,13
-"2022-22","Netherlands",0,13
-"2022-23","Netherlands",0,13
-"2022-24","Netherlands",1,14
+"2022-22","Netherlands",1,14
+"2022-23","Netherlands",0,14
+"2022-24","Netherlands",0,14
 "2022-25","Netherlands",0,14
+"2022-26","Netherlands",0,14
+"2022-27","Netherlands",0,14
+"2022-28","Netherlands",0,14
+"2022-29","Netherlands",0,14
 "2021-39","Norway",0,0
 "2021-40","Norway",0,0
 "2021-41","Norway",0,0
@@ -545,6 +597,10 @@
 "2022-23","Norway",0,5
 "2022-24","Norway",0,5
 "2022-25","Norway",0,5
+"2022-26","Norway",0,5
+"2022-27","Norway",1,6
+"2022-28","Norway",0,6
+"2022-29","Norway",0,6
 "2021-39","Poland",0,0
 "2021-40","Poland",0,0
 "2021-41","Poland",0,0
@@ -569,21 +625,25 @@
 "2022-08","Poland",0,0
 "2022-09","Poland",0,0
 "2022-10","Poland",0,0
-"2022-11","Poland",0,0
-"2022-12","Poland",0,0
-"2022-13","Poland",0,0
-"2022-14","Poland",0,0
-"2022-15","Poland",2,2
-"2022-16","Poland",2,4
-"2022-17","Poland",0,4
-"2022-18","Poland",1,5
-"2022-19","Poland",0,5
-"2022-20","Poland",3,8
-"2022-21","Poland",0,8
-"2022-22","Poland",0,8
-"2022-23","Poland",1,9
-"2022-24","Poland",1,10
-"2022-25","Poland",0,10
+"2022-11","Poland",1,1
+"2022-12","Poland",0,1
+"2022-13","Poland",0,1
+"2022-14","Poland",0,1
+"2022-15","Poland",2,3
+"2022-16","Poland",2,5
+"2022-17","Poland",0,5
+"2022-18","Poland",1,6
+"2022-19","Poland",0,6
+"2022-20","Poland",3,9
+"2022-21","Poland",0,9
+"2022-22","Poland",2,11
+"2022-23","Poland",1,12
+"2022-24","Poland",2,14
+"2022-25","Poland",0,14
+"2022-26","Poland",1,15
+"2022-27","Poland",0,15
+"2022-28","Poland",0,15
+"2022-29","Poland",0,15
 "2021-39","Portugal",0,0
 "2021-40","Portugal",0,0
 "2021-41","Portugal",0,0
@@ -611,18 +671,22 @@
 "2022-11","Portugal",0,2
 "2022-12","Portugal",0,2
 "2022-13","Portugal",2,4
-"2022-14","Portugal",2,6
-"2022-15","Portugal",1,7
-"2022-16","Portugal",3,10
-"2022-17","Portugal",0,10
-"2022-18","Portugal",2,12
-"2022-19","Portugal",1,13
-"2022-20","Portugal",1,14
-"2022-21","Portugal",2,16
-"2022-22","Portugal",2,18
-"2022-23","Portugal",1,19
-"2022-24","Portugal",0,19
-"2022-25","Portugal",0,19
+"2022-14","Portugal",1,5
+"2022-15","Portugal",1,6
+"2022-16","Portugal",3,9
+"2022-17","Portugal",0,9
+"2022-18","Portugal",2,11
+"2022-19","Portugal",0,11
+"2022-20","Portugal",1,12
+"2022-21","Portugal",2,14
+"2022-22","Portugal",2,16
+"2022-23","Portugal",2,18
+"2022-24","Portugal",1,19
+"2022-25","Portugal",1,20
+"2022-26","Portugal",0,20
+"2022-27","Portugal",0,20
+"2022-28","Portugal",0,20
+"2022-29","Portugal",0,20
 "2021-39","Republic of Moldova",0,0
 "2021-40","Republic of Moldova",0,0
 "2021-41","Republic of Moldova",0,0
@@ -662,6 +726,10 @@
 "2022-23","Republic of Moldova",0,1
 "2022-24","Republic of Moldova",0,1
 "2022-25","Republic of Moldova",0,1
+"2022-26","Republic of Moldova",0,1
+"2022-27","Republic of Moldova",0,1
+"2022-28","Republic of Moldova",0,1
+"2022-29","Republic of Moldova",0,1
 "2021-39","Serbia",0,0
 "2021-40","Serbia",0,0
 "2021-41","Serbia",0,0
@@ -701,6 +769,10 @@
 "2022-23","Serbia",0,1
 "2022-24","Serbia",0,1
 "2022-25","Serbia",0,1
+"2022-26","Serbia",0,1
+"2022-27","Serbia",0,1
+"2022-28","Serbia",0,1
+"2022-29","Serbia",0,1
 "2021-39","Spain",0,0
 "2021-40","Spain",0,0
 "2021-41","Spain",0,0
@@ -736,49 +808,57 @@
 "2022-19","Spain",1,35
 "2022-20","Spain",2,37
 "2022-21","Spain",2,39
-"2022-22","Spain",0,39
-"2022-23","Spain",0,39
-"2022-24","Spain",0,39
-"2022-25","Spain",0,39
+"2022-22","Spain",1,40
+"2022-23","Spain",1,41
+"2022-24","Spain",0,41
+"2022-25","Spain",1,42
+"2022-26","Spain",3,45
+"2022-27","Spain",0,45
+"2022-28","Spain",0,45
+"2022-29","Spain",0,45
 "2021-39","Sweden",0,0
 "2021-40","Sweden",0,0
 "2021-41","Sweden",0,0
 "2021-42","Sweden",0,0
 "2021-43","Sweden",0,0
-"2021-44","Sweden",1,1
-"2021-45","Sweden",0,1
-"2021-46","Sweden",0,1
-"2021-47","Sweden",0,1
-"2021-48","Sweden",0,1
-"2021-49","Sweden",0,1
-"2021-50","Sweden",1,2
-"2021-51","Sweden",0,2
-"2021-52","Sweden",0,2
-"2022-01","Sweden",1,3
-"2022-02","Sweden",0,3
-"2022-03","Sweden",0,3
-"2022-04","Sweden",0,3
-"2022-05","Sweden",1,4
-"2022-06","Sweden",0,4
-"2022-07","Sweden",0,4
-"2022-08","Sweden",0,4
-"2022-09","Sweden",0,4
-"2022-10","Sweden",0,4
-"2022-11","Sweden",0,4
-"2022-12","Sweden",0,4
-"2022-13","Sweden",1,5
-"2022-14","Sweden",0,5
-"2022-15","Sweden",1,6
-"2022-16","Sweden",0,6
-"2022-17","Sweden",2,8
-"2022-18","Sweden",0,8
-"2022-19","Sweden",0,8
-"2022-20","Sweden",1,9
-"2022-21","Sweden",1,10
-"2022-22","Sweden",0,10
-"2022-23","Sweden",0,10
+"2021-44","Sweden",0,0
+"2021-45","Sweden",0,0
+"2021-46","Sweden",0,0
+"2021-47","Sweden",0,0
+"2021-48","Sweden",0,0
+"2021-49","Sweden",0,0
+"2021-50","Sweden",1,1
+"2021-51","Sweden",0,1
+"2021-52","Sweden",0,1
+"2022-01","Sweden",1,2
+"2022-02","Sweden",0,2
+"2022-03","Sweden",0,2
+"2022-04","Sweden",0,2
+"2022-05","Sweden",1,3
+"2022-06","Sweden",0,3
+"2022-07","Sweden",0,3
+"2022-08","Sweden",0,3
+"2022-09","Sweden",0,3
+"2022-10","Sweden",0,3
+"2022-11","Sweden",0,3
+"2022-12","Sweden",0,3
+"2022-13","Sweden",1,4
+"2022-14","Sweden",0,4
+"2022-15","Sweden",1,5
+"2022-16","Sweden",0,5
+"2022-17","Sweden",2,7
+"2022-18","Sweden",0,7
+"2022-19","Sweden",0,7
+"2022-20","Sweden",1,8
+"2022-21","Sweden",1,9
+"2022-22","Sweden",0,9
+"2022-23","Sweden",1,10
 "2022-24","Sweden",1,11
 "2022-25","Sweden",0,11
+"2022-26","Sweden",1,12
+"2022-27","Sweden",0,12
+"2022-28","Sweden",0,12
+"2022-29","Sweden",0,12
 "2021-39","United Kingdom",0,0
 "2021-40","United Kingdom",0,0
 "2021-41","United Kingdom",0,0
@@ -789,32 +869,36 @@
 "2021-46","United Kingdom",0,0
 "2021-47","United Kingdom",0,0
 "2021-48","United Kingdom",0,0
-"2021-49","United Kingdom",1,1
-"2021-50","United Kingdom",1,2
-"2021-51","United Kingdom",0,2
-"2021-52","United Kingdom",1,3
-"2022-01","United Kingdom",6,9
-"2022-02","United Kingdom",5,14
-"2022-03","United Kingdom",7,21
-"2022-04","United Kingdom",8,29
-"2022-05","United Kingdom",5,34
-"2022-06","United Kingdom",6,40
-"2022-07","United Kingdom",6,46
-"2022-08","United Kingdom",5,51
-"2022-09","United Kingdom",14,65
-"2022-10","United Kingdom",5,70
-"2022-11","United Kingdom",8,78
-"2022-12","United Kingdom",28,106
-"2022-13","United Kingdom",23,129
-"2022-14","United Kingdom",20,149
-"2022-15","United Kingdom",17,166
-"2022-16","United Kingdom",18,184
-"2022-17","United Kingdom",23,207
-"2022-18","United Kingdom",18,225
-"2022-19","United Kingdom",13,238
-"2022-20","United Kingdom",12,250
-"2022-21","United Kingdom",7,257
-"2022-22","United Kingdom",3,260
-"2022-23","United Kingdom",3,263
-"2022-24","United Kingdom",4,267
-"2022-25","United Kingdom",1,268
+"2021-49","United Kingdom",0,0
+"2021-50","United Kingdom",1,1
+"2021-51","United Kingdom",0,1
+"2021-52","United Kingdom",1,2
+"2022-01","United Kingdom",6,8
+"2022-02","United Kingdom",5,13
+"2022-03","United Kingdom",7,20
+"2022-04","United Kingdom",8,28
+"2022-05","United Kingdom",5,33
+"2022-06","United Kingdom",6,39
+"2022-07","United Kingdom",6,45
+"2022-08","United Kingdom",4,49
+"2022-09","United Kingdom",12,61
+"2022-10","United Kingdom",3,64
+"2022-11","United Kingdom",8,72
+"2022-12","United Kingdom",27,99
+"2022-13","United Kingdom",21,120
+"2022-14","United Kingdom",20,140
+"2022-15","United Kingdom",18,158
+"2022-16","United Kingdom",19,177
+"2022-17","United Kingdom",22,199
+"2022-18","United Kingdom",19,218
+"2022-19","United Kingdom",13,231
+"2022-20","United Kingdom",12,243
+"2022-21","United Kingdom",8,251
+"2022-22","United Kingdom",3,254
+"2022-23","United Kingdom",6,260
+"2022-24","United Kingdom",5,265
+"2022-25","United Kingdom",3,268
+"2022-26","United Kingdom",2,270
+"2022-27","United Kingdom",2,272
+"2022-28","United Kingdom",0,272
+"2022-29","United Kingdom",1,273
