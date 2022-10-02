@@ -4,20 +4,21 @@
 "Bulgaria",1,1,0,0
 "Cyprus",2,2,0,0
 "Denmark",8,0,0,0
-"France",9,0,0,0
-"Greece",12,10,1,0
-"Ireland",26,25,5,2
+"Finland",1,1,1,0
+"France",10,9,2,0
+"Greece",20,17,1,0
+"Ireland",29,28,6,2
 "Israel",5,2,0,0
-"Italy",36,31,0,1
+"Italy",45,39,0,0
 "Latvia",1,1,0,0
 "Luxembourg",1,1,0,0
 "Republic of Moldova",1,1,1,0
-"Netherlands",15,13,1,4
+"Netherlands",16,13,1,4
 "Norway",6,6,1,0
-"Poland",18,18,1,0
-"Portugal",20,17,0,0
+"Poland",21,21,3,0
+"Portugal",26,22,0,0
 "Serbia",1,1,0,0
-"Spain",46,27,6,1
-"Sweden",12,8,3,1
-"United Kingdom",273,191,69,13
-"Total",513,358,89,22
+"Spain",52,32,8,3
+"Sweden",11,7,3,1
+"United Kingdom",278,196,69,13
+"Total",555,403,97,23
