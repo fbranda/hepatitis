@@ -1,24 +1,24 @@
 "country","cases","hospitalised","intensive_care_unit","transplanted"
 "Austria",6,3,0,0
 "Belgium",14,0,1,0
-"Bulgaria",1,1,0,0
+"Bulgaria",3,3,2,0
 "Cyprus",2,2,0,0
 "Denmark",8,0,0,0
 "Finland",1,1,1,0
 "France",10,9,2,0
-"Greece",20,17,1,0
+"Greece",21,18,1,0
 "Ireland",29,28,6,2
 "Israel",5,2,0,0
-"Italy",47,41,0,0
+"Italy",50,44,0,0
 "Latvia",1,1,0,0
 "Luxembourg",1,1,0,0
 "Republic of Moldova",1,1,1,0
 "Netherlands",16,13,1,4
 "Norway",6,6,1,0
-"Poland",22,22,3,0
-"Portugal",26,22,0,0
+"Poland",23,23,3,0
+"Portugal",28,24,0,0
 "Serbia",1,1,0,0
 "Spain",54,34,9,3
 "Sweden",12,7,3,1
 "United Kingdom",280,198,69,14
-"Total",563,410,98,24
+"Total",572,419,100,24
